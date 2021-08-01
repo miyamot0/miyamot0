@@ -44,3 +44,12 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCJnW5Q1CWJIRufVTl-b5kyw)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&hide_border=true" />
+
+</details>
