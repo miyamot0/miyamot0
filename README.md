@@ -55,3 +55,5 @@
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats)
