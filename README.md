@@ -41,6 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mobile Application Development for Behavioral Sciences - 13 - Adding Events to Elements in XAML](https://www.youtube.com/watch?v=a8ExK8qtAQI)
+- [Mobile Application Development for Behavioral Sciences - 12 - Adding Elements to the XAML Grid](https://www.youtube.com/watch?v=buhlnAPjj3M)
+- [Mobile Application Development for Behavioral Sciences - 11 - Adding Layouts to XAML Files](https://www.youtube.com/watch?v=NKMDhlSlwfE)
+- [Mobile Application Development for Behavioral Sciences - 10 - Customizing Labels in XAML](https://www.youtube.com/watch?v=-pR4fdNLe00)
+- [Mobile Application Development for Behavioral Sciences - 09 - Creating our First XAML Project](https://www.youtube.com/watch?v=tGGXCt5wHro)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCJnW5Q1CWJIRufVTl-b5kyw)
