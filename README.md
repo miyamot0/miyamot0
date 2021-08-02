@@ -38,15 +38,16 @@
 
 ---
 
-<detail>
+<details>
 
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true" />
 
-</detail>
+</details>
 
-<detail>
+<br />
+<br />
 
 ---
 
@@ -57,6 +58,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+<br />
+<br />
 
 ---
 
