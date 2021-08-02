@@ -55,6 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/miyamot0/discountingtools/pull/5) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
+2. 💪 Opened PR [#5](https://github.com/miyamot0/discountingtools/pull/5) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
+3. ❗️ Closed issue [#2](https://github.com/miyamot0/discountingtools/issues/2) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
+4. 🎉 Merged PR [#4](https://github.com/miyamot0/discountingtools/pull/4) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
+5. 💪 Opened PR [#4](https://github.com/miyamot0/discountingtools/pull/4) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
 <!--END_SECTION:activity-->
 
 </details>
