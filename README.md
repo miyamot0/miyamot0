@@ -7,8 +7,6 @@
 - 2021 Goals: Finalize open-source toolkits for performing Delay Discounting analyses and automating the construction of single-case design figures
 - Fun Fact: I am an avid homebrewer and my COVID projects included building a detached bar and brewhouse
 
-<br />
-
 ---
 
 ### Connect with my projects:
