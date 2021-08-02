@@ -38,21 +38,20 @@
 
 ---
 
-<details>
-    <summary>:zap: GitHub Stats</summary>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=miyamot0&repo=github-readme-stats&show_icons=true&count_private=true&hide_border=false" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<br />
+<br />
+
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0" />
 </a>
 
 <!-- 
 <img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true&hide_border=false" />
 -->
-
-</details>
 
 <br />
 <br />
