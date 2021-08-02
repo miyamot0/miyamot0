@@ -7,6 +7,10 @@
 - 2021 Goals: Finalize open-source toolkits for performing Delay Discounting analyses and automating the construction of single-case design figures
 - Fun Fact: I am an avid homebrewer and my COVID projects included building a detached bar and brewhouse
 
+<br />
+
+---
+
 ### Connect with my projects:
 
 [<img align="left" alt="smallnstats.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,6 +22,8 @@
 [linkedin]: https://linkedin.com/in/shawnpgilroy/
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -33,7 +39,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
 <br />
 
 ---
@@ -54,7 +59,7 @@
 
 ---
 
- <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/miyamot0/discountingtools/pull/5) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
@@ -68,7 +73,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<summary>📺 Latest YouTube Videos</summary>
 
 <!-- YOUTUBE:START -->
 - [Mobile Application Development for Behavioral Sciences - 13 - Adding Events to Elements in XAML](https://www.youtube.com/watch?v=a8ExK8qtAQI)
