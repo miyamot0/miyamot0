@@ -38,6 +38,28 @@
 
 ---
 
+<detail>
+
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true" />
+
+</detail>
+
+<detail>
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -50,17 +72,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCJnW5Q1CWJIRufVTl-b5kyw)
 
----
 
-<detail>
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="center" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true" />
-
-</detail>
-
-<detail>
 
 <!-- 
 
