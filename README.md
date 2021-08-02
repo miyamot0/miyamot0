@@ -46,13 +46,18 @@
 
 -->
 
-![miyamot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyamot0&count_private=true)
-
+<p align="center">
+    ![miyamot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyamot0&count_private=true)
+</p>
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats)
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats)
+</p>
+
+
 
 
 <!--
