@@ -39,10 +39,18 @@
 ---
 
 <details>
+    <summary>:zap: GitHub Stats</summary>
 
-<summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=miyamot0&repo=github-readme-stats&show_icons=true&count_private=true&hide_border=false" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats" />
+</a>
 
-<img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true" />
+<!-- 
+<img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true&hide_border=false" />
+-->
 
 </details>
 
