@@ -45,15 +45,11 @@
 
 ![miyamot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyamot0&count_private=true)
 
-<br />
-
 ---
 
 <summary>:zap: Overall Language Use</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats)
-
-<br />
 
 ---
 
@@ -66,8 +62,6 @@
 4. 🎉 Merged PR [#4](https://github.com/miyamot0/discountingtools/pull/4) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
 5. 💪 Opened PR [#4](https://github.com/miyamot0/discountingtools/pull/4) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
 <!--END_SECTION:activity-->
-
-<br />
 
 ---
 
