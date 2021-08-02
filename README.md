@@ -38,16 +38,29 @@
 
 ---
 
+<!-- 
+
 <a href="#">
   <img align="center" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=miyamot0&repo=github-readme-stats&show_icons=true&count_private=true&hide_border=false" />
 </a>
 
+-->
+
+![miyamot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyamot0&count_private=true)
+
+
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0)](https://github.com/miyamot0/github-readme-stats)
+
+
+<!--
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyamot0" />
 </a>
+
+-->
 
 <!-- 
 <img align="left" alt="miyamot0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miyamot0&show_icons=true&count_private=true&hide_border=false" />
