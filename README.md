@@ -56,11 +56,11 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/miyamot0/fxl/issues/9) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
-2. 🗣 Commented on [#9](https://github.com/miyamot0/fxl/issues/9) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
-3. 🎉 Merged PR [#14](https://github.com/miyamot0/fxl/pull/14) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
-4. 💪 Opened PR [#14](https://github.com/miyamot0/fxl/pull/14) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
-5. 🎉 Merged PR [#13](https://github.com/miyamot0/fxl/pull/13) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
+1. ❗️ Opened issue [#6](https://github.com/miyamot0/discountingtools/issues/6) in [miyamot0/discountingtools](https://github.com/miyamot0/discountingtools)
+2. ❗️ Closed issue [#9](https://github.com/miyamot0/fxl/issues/9) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
+3. 🗣 Commented on [#9](https://github.com/miyamot0/fxl/issues/9) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
+4. 🎉 Merged PR [#14](https://github.com/miyamot0/fxl/pull/14) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
+5. 💪 Opened PR [#14](https://github.com/miyamot0/fxl/pull/14) in [miyamot0/fxl](https://github.com/miyamot0/fxl)
 <!--END_SECTION:activity-->
 
 ---
